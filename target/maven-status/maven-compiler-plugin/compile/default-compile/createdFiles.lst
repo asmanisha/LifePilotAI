@@ -1,0 +1,7 @@
+com\lifepilot\model\Task.class
+com\lifepilot\model\Goal.class
+com\lifepilot\LifePilotAI.class
+com\lifepilot\dao\GoalDAO.class
+com\lifepilot\dao\DBConnection.class
+com\lifepilot\dao\TaskDAO.class
+com\lifepilot\DatabaseTest.class
